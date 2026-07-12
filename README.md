@@ -59,9 +59,15 @@
 
 ## はじめかた
 
-**[最新版をダウンロード → Releases](../../releases/latest)**
+Ubuntu Server のターミナルに、**下の1行を貼り付けて Enter するだけ**:
 
-インストール手順(Ubuntu Server の準備、Windows から SSH で接続する方法)は **[INSTALL.md](INSTALL.md)** を参照してください。
+```bash
+curl -sL https://github.com/KimYuki3/KCI-NAS2/releases/latest/download/install.sh | sudo bash
+```
+
+終わったら `http://<NASのIP>:8080` を開き、`admin` / `admin` でログイン(**すぐにパスワードを変更**)。
+
+Ubuntu Server の入れ方や、Windows から SSH でつなぐ手順など、くわしくは **[INSTALL.md](INSTALL.md)** を参照してください。
 
 ## 質問・要望
 
@@ -141,9 +147,15 @@ from backup even if a PC dies.
 
 ## Getting started
 
-**[Download the latest version → Releases](../../releases/latest)**
+Paste **this single line** into your Ubuntu Server terminal and press Enter:
 
-For installation steps (preparing Ubuntu Server, connecting via SSH from Windows), see **[INSTALL.md](INSTALL.md)**.
+```bash
+curl -sL https://github.com/KimYuki3/KCI-NAS2/releases/latest/download/install.sh | sudo bash
+```
+
+Then open `http://<NAS-IP>:8080` and log in with `admin` / `admin` (**change the password right away**).
+
+For the full guide (preparing Ubuntu Server, connecting via SSH from Windows), see **[INSTALL.md](INSTALL.md)**.
 
 ## Questions & requests
 
