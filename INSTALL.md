@@ -52,9 +52,14 @@ ssh <ユーザー名>@<NASのIP>
 
 ### 5. KCI-NAS をインストールする
 
-SSH で繋いだ状態のまま、配布されたインストーラを実行します(インストーラの入手方法は配布時の案内に従ってください):
+SSH で繋いだ状態のまま、[**最新リリース**](../../releases/latest) から本体をダウンロードして展開し、インストーラを実行します。
+([Releases](../../releases/latest) ページで最新版のファイル名を確認してください):
 
 ```bash
+# 例: Releases ページの kci-nas-<version>.tar.gz を取得
+wget https://github.com/KimYuki3/KCI-NAS2/releases/latest/download/kci-nas-0.1.81.11.tar.gz
+tar xzf kci-nas-0.1.81.11.tar.gz
+cd kci-nas
 sudo bash install.sh
 ```
 
@@ -130,9 +135,15 @@ Answer `yes` the first time, enter your password, and you're in.
 
 ### 5. Install KCI-NAS
 
-Still connected over SSH, run the provided installer (follow the instructions given with your copy):
+Still connected over SSH, download the package from the
+[**latest release**](../../releases/latest), extract it, and run the installer
+(check the [Releases](../../releases/latest) page for the current file name):
 
 ```bash
+# e.g. grab kci-nas-<version>.tar.gz from the Releases page
+wget https://github.com/KimYuki3/KCI-NAS2/releases/latest/download/kci-nas-0.1.81.11.tar.gz
+tar xzf kci-nas-0.1.81.11.tar.gz
+cd kci-nas
 sudo bash install.sh
 ```
 

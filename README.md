@@ -59,6 +59,8 @@
 
 ## はじめかた
 
+**[最新版をダウンロード → Releases](../../releases/latest)**
+
 インストール手順(Ubuntu Server の準備、Windows から SSH で接続する方法)は **[INSTALL.md](INSTALL.md)** を参照してください。
 
 ## 質問・要望
@@ -138,6 +140,8 @@ from backup even if a PC dies.
 - **OS** — Ubuntu Server (x86_64). Since a NAS is headless, the lighter Server edition is recommended over Desktop.
 
 ## Getting started
+
+**[Download the latest version → Releases](../../releases/latest)**
 
 For installation steps (preparing Ubuntu Server, connecting via SSH from Windows), see **[INSTALL.md](INSTALL.md)**.
 
