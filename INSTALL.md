@@ -5,6 +5,8 @@
 古いパソコンに Ubuntu Server を入れ、いつも使っている Windows パソコンから SSH で接続して設定します。
 画面やキーボードを NAS 本体に繋ぎっぱなしにする必要はありません。
 
+> ⚠️ **免責事項**: これは自作 NAS です。**導入・運用はすべて自己責任**で行ってください。本ソフトは無保証で提供され、**データの消失・機器の故障を含むいかなる損害についても作者は責任を負いません**。大切なデータは必ず複数の場所にバックアップしてください。
+
 ## 用意するもの
 
 - NAS にする古いパソコン([動作環境](README.md#動作環境最低限)を満たすもの)
@@ -83,6 +85,8 @@ Windows のブラウザで `http://<NASのIP>:8080` を開きます。
 
 Install Ubuntu Server on an old PC, then set everything up from your everyday Windows PC over SSH.
 You don't need to keep a monitor and keyboard attached to the NAS.
+
+> ⚠️ **Disclaimer**: This is a DIY NAS. **Installation and operation are entirely at your own risk.** The software is provided with no warranty, and **the authors accept no liability for any damage — including data loss or hardware failure**. Always keep backups of important data in more than one place.
 
 ## What you need
 

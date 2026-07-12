@@ -57,6 +57,16 @@
 - **ディスク** — 1本から使えます。RAID を組むなら 2本以上。SSD を1本足すと動きが軽くなります
 - **OS** — Ubuntu Server(x86_64)。画面のいらないサーバー用途なので、デスクトップ版より軽い Server 版がおすすめです
 
+## ⚠️ 免責事項(必ずお読みください)
+
+KCI-NAS は、利用者ご自身が組み立てて運用する **自作 NAS** です。**導入・運用は、すべて個人の責任において行ってください。**
+
+- 本ソフトウェアは「**現状のまま(AS IS)**」提供され、**動作・性能・安全性を一切保証しません。**
+- 本ソフトウェアの使用、または使用できなかったことにより生じた **いかなる損害(データの消失・破損、機器の故障、事業上の損失などを含む一切)についても、作者は責任を負いません。**
+- **大切なデータは、必ず複数の場所にバックアップしてください。**
+
+インストールを実行した時点で、上記に同意したものとみなします。
+
 ## はじめかた
 
 Ubuntu Server のターミナルに、**下の1行を貼り付けて Enter するだけ**:
@@ -144,6 +154,16 @@ from backup even if a PC dies.
 - **Memory** — 4 GB minimum. 8–16 GB recommended if you run apps (media server, containers, etc.).
 - **Disks** — works with a single drive. RAID needs 2+. Adding one SSD keeps cheap disks responsive.
 - **OS** — Ubuntu Server (x86_64). Since a NAS is headless, the lighter Server edition is recommended over Desktop.
+
+## ⚠️ Disclaimer (please read)
+
+KCI-NAS is a **do-it-yourself NAS that you build and operate yourself. All installation and operation are entirely at your own risk and responsibility.**
+
+- The software is provided **"AS IS", with no warranty** of operation, performance, or safety of any kind.
+- **The authors accept no liability for any damage whatsoever** — including data loss or corruption, hardware failure, or business loss — arising from the use of, or inability to use, this software.
+- **Always keep backups of important data in more than one place.**
+
+By running the installer, you agree to the above.
 
 ## Getting started
 
