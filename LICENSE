@@ -1,0 +1,110 @@
+KCI-NAS License
+Copyright (c) 2026 Kimura (GitHub: @KimYuki3)
+
+------------------------------------------------------------------------
+日本語（正文）
+------------------------------------------------------------------------
+
+本ライセンスは、KCI-NAS（以下「本ソフトウェア」）のソースコードおよび
+関連ファイル一式に適用されます。本ソフトウェアを利用・複製・改変する
+すべての者は、本ライセンスに同意したものとみなされます。
+
+1. 定義
+   「非商用利用」とは、金銭的・商業的な対価や事業上の利益を目的としない
+   利用をいいます。個人が自宅・私的な環境で本ソフトウェアを使用すること、
+   および学術・学習・評価を目的とする利用は非商用利用に含まれます。
+   「商用利用」とは、非商用利用以外のすべての利用をいい、販売、業務上の
+   使用、SaaS・ホスティング等のサービス提供への組み込み、および再配布を
+   含みます。
+
+2. 非商用利用の許諾（無償）
+   本ソフトウェアの非商用利用については、無償で以下を許諾します。
+     (a) 本ソフトウェアの使用および実行
+     (b) 本ソフトウェアの複製
+     (c) 本ソフトウェアの改変、および改変版の非商用での使用
+   ただし、上記の複製物および改変版には、本ライセンス文および上記の
+   著作権表示をそのまま含めなければなりません。
+
+3. 商用利用（別途契約）
+   商用利用には、著作権者との個別のライセンス契約が必要です。事前の
+   書面（電子的方法を含む）による許諾なく、本ソフトウェアを商用利用
+   してはなりません。商用ライセンスに関するお問い合わせは、GitHub
+   リポジトリ（https://github.com/KimYuki3/KCI-NAS）の Issues、または
+   リポジトリ所有者 @KimYuki3 までご連絡ください。
+
+4. ソースコードの公開範囲
+   本ソフトウェアのソースコードは、上記 GitHub リポジトリで公開されて
+   います。本ライセンスは、著作権者が保有する著作権その他の権利を
+   放棄・移転するものではありません。
+
+5. 第三者コンポーネント
+   本ソフトウェアには、それぞれ独自のライセンスに従う第三者のソフト
+   ウェア・モデル・ライブラリが含まれる場合があります。これらの
+   コンポーネントには、当該コンポーネントのライセンスが適用されます。
+
+6. 保証の否認・免責
+   本ソフトウェアは「現状のまま（AS IS）」提供され、明示・黙示を問わず、
+   商品性、特定目的への適合性、および権利非侵害を含むいかなる保証も
+   行いません。著作権者は、本ソフトウェアの使用または使用不能により
+   生じたいかなる損害（データの消失・破損、機器の故障、事業上の損失を
+   含みますが、これらに限りません）についても、一切の責任を負いません。
+
+7. 本ライセンスの終了
+   本ライセンスの条件に違反した場合、当該違反者に対する許諾は自動的に
+   終了します。
+
+------------------------------------------------------------------------
+English (Reference translation)
+------------------------------------------------------------------------
+
+This License applies to KCI-NAS ("the Software"), including its source
+code and associated files. Anyone who uses, copies, or modifies the
+Software is deemed to have accepted this License. In case of any
+discrepancy, the Japanese text above is authoritative.
+
+1. Definitions
+   "Non-commercial use" means any use that is not intended for monetary
+   or commercial gain or business advantage. Personal use in a private
+   or home environment, and use for academic, learning, or evaluation
+   purposes, are non-commercial use. "Commercial use" means any use
+   other than non-commercial use, including sale, use in the course of
+   business, incorporation into hosted/SaaS services, and redistribution.
+
+2. Grant for Non-commercial Use (free of charge)
+   For non-commercial use, permission is granted free of charge to:
+     (a) use and run the Software;
+     (b) copy the Software; and
+     (c) modify the Software and use modified versions non-commercially.
+   All copies and modified versions must retain this License text and
+   the copyright notice above.
+
+3. Commercial Use (separate agreement)
+   Commercial use requires a separate license agreement with the
+   copyright holder. You may not use the Software commercially without
+   prior written (including electronic) permission. For commercial
+   licensing, please open an issue on the GitHub repository
+   (https://github.com/KimYuki3/KCI-NAS) or contact the repository
+   owner @KimYuki3.
+
+4. Source Availability
+   The source code of the Software is published in the GitHub repository
+   above. This License does not waive or transfer any copyright or other
+   rights held by the copyright holder.
+
+5. Third-Party Components
+   The Software may include third-party software, models, or libraries
+   that are subject to their own licenses. Those components remain
+   governed by their respective licenses.
+
+6. Disclaimer of Warranty and Limitation of Liability
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR
+   ANY CLAIM, DAMAGES, OR OTHER LIABILITY (INCLUDING BUT NOT LIMITED TO
+   LOSS OR CORRUPTION OF DATA, EQUIPMENT FAILURE, OR BUSINESS LOSSES),
+   WHETHER ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. Termination
+   Any breach of the terms of this License automatically terminates the
+   permissions granted to the breaching party.
